@@ -1,0 +1,32 @@
+img {
+    width: 400px;
+}
+
+mark {
+    color:black;
+    background-color:yellow;
+}
+li{
+    list-style:none;
+}
+
+.testclass{
+    font-size: 15px;
+}
+
+#test4 {
+    width: 200px;
+    height: 200px;
+    background: purple;
+    padding: 20px;
+    border:30px;
+    margin: 40px;
+
+}
+
+
+
+
+h2{
+    color:blueviolet
+}
